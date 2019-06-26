@@ -1,6 +1,6 @@
-#Pro/g/ramming Challenges
-#86: Temperature converter
-#by ahmad89098
+# Pro/g/ramming Challenges
+# 86: Temperature converter
+# by ahmad89098
 
 
 def celsius_to_fahrenheit(temp_celsius):
