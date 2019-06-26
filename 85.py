@@ -1,6 +1,6 @@
-#Pro/g/ramming Challenges
-#85: Fibonacci sequence (atleast the first 100 numbers)
-#by ahmad89098
+# Pro/g/ramming Challenges
+# 85: Fibonacci sequence (atleast the first 100 numbers)
+# by ahmad89098
 
 first_number = 0
 second_number = 1
