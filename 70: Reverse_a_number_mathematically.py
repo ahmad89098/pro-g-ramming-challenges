@@ -1,4 +1,7 @@
-# Reverse a number mathematically 1234 becomes 4321
+#Pro/g/ramming Challenges
+#70: Reverse a number mathematically
+#by ahmad89098
+
 input_number = input("Which number do you want to reverse? ")
 my_list = []
 output_number = ""
