@@ -1,6 +1,6 @@
-#Pro/g/ramming Challenges
-#80: Factorial
-#by ahmad89098
+# Pro/g/ramming Challenges
+# 80: Factorial
+# by ahmad89098
 
 factorial = 1
 number = input("Enter your number: ")
